@@ -54,4 +54,12 @@ create schema suresh_nagisetti_schema
 
 -- COMMAND ----------
 
+Create schema ritvik_schema 
 
+-- COMMAND ----------
+
+use catalog teqdata
+
+-- COMMAND ----------
+
+create schema rajeswari
